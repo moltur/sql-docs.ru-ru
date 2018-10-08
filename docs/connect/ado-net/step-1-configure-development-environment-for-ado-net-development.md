@@ -27,19 +27,19 @@ ms.locfileid: "35288903"
 
 ## <a name="download-a-net-sql-driver"></a>Загрузка драйвера .NET SQL
 
-Нашей текущей примере кода ADO.NET платформы .NET Framework для Windows. .NET Core для Linux и MacOS (в дополнение к Windows).
+Наш текущий пример кода использует ADO.NET платформы .NET Framework для Windows. .NET Core также доступен для Linux и MacOS (в дополнение к Windows).
 
 ### <a name="adonet-for-windows"></a>ADO.NET для Windows
 
 1. ![Загрузка стрелка вниз обведен](../../ssdt/media/download.png)[Загрузка и установка .NET Framework, включая ADO.NET](../sql-connection-libraries.md#anchor-20-drivers-relational-access)
 
-2. Установка Visual Studio Community или аналогичный интегрированной среды разработки (IDE) для записи и компиляция исходного кода C#. Корпорация Майкрософт предоставляет теперь Visual Studio Community для *свободного*.  
+2. Установите Visual Studio Community или аналогичую интегрированную среду разработки (IDE) для написания и компиляция исходного кода C#. Корпорация Майкрософт теперь предоставляет Visual Studio Community *бесплатно*.  
     - [Загрузить Visual Studio Community](http://www.visualstudio.com/products/visual-studio-community-vs)  
-    - [Дополнительные параметры для освобождения Visual Studio](http://www.visualstudio.com/products/free-developer-offers-vs.aspx)  
+    - [Дополнительные параметры для бесплатной Visual Studio](http://www.visualstudio.com/products/free-developer-offers-vs.aspx)  
 
 
 ### <a name="net-core-for-linux-ubuntu-and-macos"></a>.NET core для Linux Ubuntu и MacOS
 
-Ссылки для загрузки .NET Core для различных операционных систем, можно просмотреть в:
+Ссылки для загрузки .NET Core для различных операционных систем доступны здесь:
 
-- ![Загрузка стрелка вниз обведен](../../ssdt/media/download.png)[для загрузки и установки .NET Core](../sql-connection-libraries.md#anchor-20-drivers-relational-access)
+- ![Загрузка стрелка вниз обведен](../../ssdt/media/download.png)[Для загрузки и установки .NET Core](../sql-connection-libraries.md#anchor-20-drivers-relational-access)
