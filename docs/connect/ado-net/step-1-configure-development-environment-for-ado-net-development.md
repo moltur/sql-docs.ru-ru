@@ -21,7 +21,7 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 06/11/2018
 ms.locfileid: "35288903"
 ---
-# <a name="step-1-configure-development-environment-for-adonet-development"></a>Шаг 1: Настройка среда разработки для ADO.NET
+# <a name="step-1-configure-development-environment-for-adonet-development"></a>Шаг 1: Настройка среды разработки для ADO.NET
 
 - Далее статьи:&nbsp;&nbsp;&nbsp;[шаг 2: Создание базы данных SQL для разработки приложений ADO.NET](step-2-create-a-sql-database-for-ado-net-development.md)  
 
@@ -33,7 +33,7 @@ ms.locfileid: "35288903"
 
 1. ![Загрузка стрелка вниз обведен](../../ssdt/media/download.png)[Загрузка и установка .NET Framework, включая ADO.NET](../sql-connection-libraries.md#anchor-20-drivers-relational-access)
 
-2. Установите Visual Studio Community или аналогичую интегрированную среду разработки (IDE) для написания и компиляция исходного кода C#. Корпорация Майкрософт теперь предоставляет Visual Studio Community *бесплатно*.  
+2. Установите Visual Studio Community или аналогичую интегрированную среду разработки (IDE) для написания и компиляции исходного кода C#. Корпорация Майкрософт теперь предоставляет Visual Studio Community *бесплатно*.  
     - [Загрузить Visual Studio Community](http://www.visualstudio.com/products/visual-studio-community-vs)  
     - [Дополнительные параметры для бесплатной Visual Studio](http://www.visualstudio.com/products/free-developer-offers-vs.aspx)  
 
